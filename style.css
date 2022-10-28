@@ -1,0 +1,25 @@
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #8338EC;
+}
+#imagem-principal{
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+h1{
+    color: #8338EC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2{
+    color: #FF006E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3A86FF;
+}
+
